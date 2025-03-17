@@ -1,6 +1,6 @@
 # macOS
 .DS_Store
-
+.AppleDouble
 # VS Code
 .vscode/*
 !.vscode/settings.json
@@ -14,3 +14,5 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
+# JetBrains IDE
+.idea/*
