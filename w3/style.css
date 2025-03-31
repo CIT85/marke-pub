@@ -1,0 +1,20 @@
+html{
+   font-size: 20pt;
+}
+body{
+    background-color: rgb(71, 65, 65);
+    color: white;
+}
+a{
+    color: rgba(255, 255, 255, 0.795);
+}
+a:visited{
+    color: rgb(218, 129, 12);
+}
+ul {
+    list-style: none;
+}
+nav li{
+    display: inline;
+    padding-right: 10px;
+} 
